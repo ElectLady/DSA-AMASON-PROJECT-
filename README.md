@@ -42,7 +42,7 @@ This project focuses on analyzing Amazon product reviews to understand how custo
 Ogbuagu Patience Chioma
 Business Intelligence Analyst  
 Location: Lagos, Nigeria  
-GitHub:  
+GitHub: https://github.com/ElectLady
 Email: patiencechioma749@gmail.com
 
 
